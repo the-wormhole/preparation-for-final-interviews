@@ -10,5 +10,5 @@ This repository contains all the topics and methods that I went through and appl
       - Sort 0 1 2
     - 1(B)
       - Maximum Sub array sum (Kadane's algorithm)
-      - Maximum profit stock 
+      - Maximum profit stock (Using Stack)
       
