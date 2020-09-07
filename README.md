@@ -11,6 +11,7 @@ This repository contains all the topics and methods that I went through and appl
     - 1(B)
       - Maximum Sub array sum (Kadane's algorithm)
       - Maximum profit stock (Using Stack)
+      - Maximize sum of 2 sorted arrays
     - Sorting
       - Bubble Sort 
       - Selection sort
