@@ -18,3 +18,12 @@ This repository contains all the topics and methods that I went through and appl
       - Insertion sort
       - etc.
       
+  - Bit Manupalation
+    - set nth bit (OR operation)
+    - unset nth bit (AND operation)
+    - toggle nth bit (XOR operation)
+    - Checking if bit at nth position is set or unset (AND operator)
+    - 1's compliment 
+    - 2's compliment
+    - Stripping off lowest set bit ( X & (X-1) )
+    - Getting the lowest set bit 
