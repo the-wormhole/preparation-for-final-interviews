@@ -18,7 +18,7 @@ This repository contains all the topics and methods that I went through and appl
       - Insertion sort
       - etc.
       
-  - Bit Manupalation
+  - [Bit Manupalation (notes)] (https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
     - set nth bit (OR operation)
     - unset nth bit (AND operation)
     - toggle nth bit (XOR operation)
