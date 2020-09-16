@@ -28,5 +28,9 @@ This repository contains all the topics and methods that I went through and appl
     - Stripping off lowest set bit ( X & (X-1) )
     - Getting the lowest set bit 
     - [Negative number binary representation](https://www.tutorialspoint.com/negative-binary-numbers)
-    
-   
+      
+  - Strings 
+    - Remove Duplicates (replace duplicates by spaces)
+    - Check Permutation
+    - Compress the string  (same method as remove duplicates but with slight difference)
+    - 
