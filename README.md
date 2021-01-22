@@ -26,7 +26,7 @@ This repository contains all the topics and methods that I went through and appl
     - 1's compliment 
     - 2's compliment
     - Stripping off lowest set bit ( X & (X-1) )
-    - Getting the lowest set bit 
+    - Getting the lowest set bit ( X & (-X))
     - [Negative number binary representation](https://www.tutorialspoint.com/negative-binary-numbers)
       
   - Strings 
