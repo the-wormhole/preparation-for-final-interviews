@@ -17,6 +17,9 @@ This repository contains all the topics and methods that I went through and appl
       - Selection sort
       - Insertion sort
       - etc.
+    - [Interview questions](https://medium.com/javarevisited/20-array-coding-problems-and-questions-from-programming-interviews-869b475b9121)
+      - [Missing number in a array of 1 to 100](https://javarevisited.blogspot.com/2014/11/how-to-find-missing-number-on-integer-array-java.html#axzz6kiNdlkUG)
+      - []()
       
   - [Bit Manupalation (notes)](https://www.geeksforgeeks.org/bitwise-hacks-for-competitive-programming/)
     - set nth bit (OR operation)
