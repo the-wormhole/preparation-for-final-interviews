@@ -38,3 +38,6 @@ This repository contains all the topics and methods that I went through and appl
     - Compress the string  (same method as remove duplicates but with slight difference)
     - [Substrng in a String (Naive algorithm, KMP algorithm)](https://www.youtube.com/watch?v=V5-7GzOfADQ&t=705s)
     - 
+  - 2D arrays
+    - [Maximum Square Matrix of all 0s](https://classroom.codingninjas.com/app/classroom/me/920/content/13441/offering/130500/problem/4639) and video [link](https://drive.google.com/file/d/1X82Ydkri79QR8YPLcyRYeP7Oaus8fiIi/view)
+    - 
