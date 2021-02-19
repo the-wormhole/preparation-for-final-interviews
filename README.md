@@ -36,4 +36,5 @@ This repository contains all the topics and methods that I went through and appl
     - Remove Duplicates (replace duplicates by spaces)
     - Check Permutation
     - Compress the string  (same method as remove duplicates but with slight difference)
+    - [Substrng in a String (Naive algorithm, KMP algorithm)](https://www.youtube.com/watch?v=V5-7GzOfADQ&t=705s)
     - 
