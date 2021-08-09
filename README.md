@@ -41,3 +41,41 @@ This repository contains all the topics and methods that I went through and appl
   - 2D arrays
     - [Maximum Square Matrix of all 0s](https://classroom.codingninjas.com/app/classroom/me/920/content/13441/offering/130500/problem/4639) and video [link](https://drive.google.com/file/d/1X82Ydkri79QR8YPLcyRYeP7Oaus8fiIi/view)
     - 
+  - [Number Theory-1](https://www.hackerearth.com/practice/notes/number-theory-1/)
+    - Modulo properties
+      - (a + b)%c = (a%c + b%c)%c
+      - (a * b)%c = (a%c * b%c)%c
+    - GCD approaches 
+      - Naive approach (min(a,b) then check the common divisor by iterating till 1)
+      - Euclid's Algorithm 
+        GCD(A,B) = GCD(B,A%B)
+        check the above link for the code
+        Time Complexity - O(log(max(A,B))
+    - Prime Numbers
+      - Naive Approach (dividing the number N from 2 up till N-1 to find a divisor)
+      - check till square root of N if a number divides N, if yes then count+=2 , if i * i == N then count+=1
+        Time Complexity = O(N^0.5)
+      - Sieve of Eratosthenes 
+        Time Comlexity = O(NloglogN)
+        This algorithm returns all primes up till N 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
